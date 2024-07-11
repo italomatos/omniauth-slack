@@ -565,7 +565,7 @@ Create a Sinatra project directory, then add these files.
 Put those in their respective files, fill in your Slack OAuth2 credentials, then launch.
 
     bundle install
-    bundle exec ruby super_simple.rb
+    bundle exec ruby simple_app.rb
 
 Then point your browser to
 
